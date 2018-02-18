@@ -1,10 +1,12 @@
-## Your Name
+# George Drayson
+
+### Junior Developer ###
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-## Skills
+# Skills
 
-#### This Skill
+**This Skill**
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,7 +14,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+**Another Skill**
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -21,30 +23,37 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+# Education
 
-#### Makers Academy (start_date to end_date)
+**Makers Academy (January to May 2018)**
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+A 16-week intensive coding bootcamp focused around:
 
-- OOP, TDD, MVC, DDD
+- Object Oriented Programming, Test Driven Development, MVC, DDD
+
 - Agile/XP
-- Ruby, Rails, JavaScript
+
+- Languages: Ruby, Rails, JavaScript
+
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+- Pair programming
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Curious and passionate about code. [PROVIDE EVIDENCE]
 
-#### Any other qualifications
+- Fast, independent learner [PROVIDE EVIDENCE]
 
-## Experience
+- Great collaborator [PROVIDE EVIDENCE]
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**I am starting an Engineering Science Degree at the University of Oxford in October 2018**
+
+- Brasenose College
+- Awarded a MEng at the end of 4 years
+
+**Harrodian School, London (January 2011 - June 2017)**
+
+- Head Boy
+- A Levels: Achieved A*s in Mathematics, Physics and Further Mathematics
+- GCSEs: Achieved 9 A*s and 1 A
+- Awarded an Academic Scholarship after my GCSEs and A Levels
+- Enjoyed Debating, Film-making, Field Hockey, Athletics and Music
