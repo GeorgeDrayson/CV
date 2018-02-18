@@ -4,7 +4,7 @@
 
 ### Junior Developer ###
 
-I am a graduate from the Harrodian School, who is on a Gap Year before starting an Engineering Science degree at Oxford University in October. I decided to take a gap year to develop my knowledge of software development and gain industry experience in a tech company.
+I am a graduate from the Harrodian School on a Gap Year before starting an Engineering Science degree at Oxford University in October. I decided to take a gap year to develop my knowledge of software development and gain industry experience in a tech company.
 
 Then a sentence about what you've achieved.
 
@@ -12,10 +12,10 @@ And then a sentence about what you're looking for: what you would ideally be doi
 
 # Projects
 
-|    Project   | Description |
-| ------------ | ----------- |
-|   Project1   |             |
-|   Project2   | Decription  |
+|    Project   | Description | Technologies Used |
+| ------------ | ----------- | ----------------- |
+|   Project1   |             |                   |
+|   Project2   |             |                   |
 
 # Skills
 
