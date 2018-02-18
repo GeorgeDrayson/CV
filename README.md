@@ -71,7 +71,6 @@ A 16-week intensive coding bootcamp focused around:
 - A Levels: Achieved A*s in Mathematics, Physics and Further Mathematics
 - GCSEs: Achieved 9 A*s and 1 A
 - Awarded an Academic Scholarship after my GCSEs and A Levels
-- Enjoyed Debating, Film-making, Field Hockey, Athletics and Music
 
 # Hobbies
 
