@@ -42,7 +42,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Makers Academy (January to May 2018)**
 
-A 16-week intensive coding bootcamp focused around:
+Makers Academy is a 16-week intensive coding bootcamp (with 12 of these weeks onsite) that is one of the most well respected in the UK.
+
+The main focus is around:
 
 - Object Oriented Programming, Test Driven Development, MVC, DDD
 
