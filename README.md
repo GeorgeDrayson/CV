@@ -1,6 +1,6 @@
 # George Drayson
 
-[SKILLS](#Skills) | [EDUCATION](#Education) 
+[SKILLS](# Skills) | [EDUCATION](# Education) 
 
 ### Junior Developer ###
 
