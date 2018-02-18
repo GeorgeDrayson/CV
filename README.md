@@ -1,11 +1,21 @@
 # George Drayson
 
-[SKILLS](#skills) | [EDUCATION](#education)
+[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [HOBBIES](#hobbies)
 
 ### Junior Developer ###
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a graduate from the Harrodian School, who is on a Gap Year before starting an Engineering Science degree at Oxford University in October. I decided to take a gap year to develop my knowledge of software development and gain industry experience in a tech company.
 
+Then a sentence about what you've achieved.
+
+And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. --> short-term (for 2 months)
+
+# Projects
+
+|    Project   | Description |
+| ------------ | ----------- |
+|   Project1   |             |
+|   Project2   | Decription  |
 
 # Skills
 
@@ -42,6 +52,8 @@ A 16-week intensive coding bootcamp focused around:
 
 - Pair programming
 
+
+
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -60,3 +72,9 @@ A 16-week intensive coding bootcamp focused around:
 - GCSEs: Achieved 9 A*s and 1 A
 - Awarded an Academic Scholarship after my GCSEs and A Levels
 - Enjoyed Debating, Film-making, Field Hockey, Athletics and Music
+
+# Hobbies
+
+- Film-making: Directed, co-wrote, and acted in short films for the Harrodian Film Festival. We received second place and then achieved a technical commendation in the subsequent year.
+- Long Distance Running and Field Hockey: I spent most of my time in senior school competing for my Athletics Team Belgrave Harriers and playing Hockey for the 1st team.
+- Music: I have been playing the Electric Guitar since the age of 11 because of a passion for Old School Classic Rock and learning new skills.
