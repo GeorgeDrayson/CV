@@ -2,7 +2,7 @@
 
 [PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [HOBBIES](#hobbies)
 
-### Junior Developer ###
+### Junior Software Developer ###
 
 I am a graduate from the Harrodian School on a Gap Year before starting an Engineering Science degree at Oxford University in October. I decided to take a gap year to develop my knowledge of software development and gain industry experience in a tech company.
 
