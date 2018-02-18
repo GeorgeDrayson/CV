@@ -76,7 +76,7 @@ A 16-week intensive coding bootcamp focused around:
 
 # Experience
 
-*Work experience at MRM Meteorite* - Spent 2 weeks at a digital marketing agency, working in every part of the production line of various websites and applications.
+**Work experience at MRM Meteorite** - Spent 2 weeks at a digital marketing agency, working in every part of the production line of various websites and applications.
 
 # Hobbies
 
