@@ -1,6 +1,8 @@
 # George Drayson
 
-[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [HOBBIES](#hobbies)
+[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [HOBBIES](#hobbies)
+
+[Personal website](http://georgedrayson.com/)
 
 ### Junior Software Developer ###
 
@@ -71,6 +73,10 @@ A 16-week intensive coding bootcamp focused around:
 - A Levels: Achieved A*s in Mathematics, Physics and Further Mathematics
 - GCSEs: Achieved 9 A*s and 1 A
 - Awarded an Academic Scholarship after my GCSEs and A Levels
+
+# Experience
+
+*Work experience at MRM Meteorite* - Spent 2 weeks at a digital marketing agency, working in every part of the production line of various websites and applications.
 
 # Hobbies
 
