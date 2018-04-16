@@ -6,7 +6,7 @@
 
 ### Junior Software Developer ###
 
-I am a graduate from the Harrodian School on a Gap Year before starting an Engineering Science degree at Oxford University in October. I decided to take a gap year to develop my knowledge of software development and gain industry experience in a tech company.
+I am a Software Developer from Makers Academy. I graduated from the Harrodian School last year and will be on a Gap Year before starting an Engineering Science degree at Oxford University in October. I decided to take a gap year to develop my knowledge of software development and gain industry experience in a tech company.
 
 Then a sentence about what you've achieved.
 
@@ -14,10 +14,15 @@ And then a sentence about what you're looking for: what you would ideally be doi
 
 # Projects
 
-|    Project   | Description | Technologies Used |
-| ------------ | ----------- | ----------------- |
-|   Project1   |             |                   |
-|   Project2   |             |                   |
+|    Project   | Timeframe | Description | Technologies | Testing |
+| ------------ | --------- | ----------------- | ----------------- | ------- |
+|Oystercard [Github](https://github.com/GeorgeDrayson/Oystercard) |1 week|Week 2 of Makers Academy.|Ruby|Rspec|
+|Takeaway Challenge [Github](https://github.com/GeorgeDrayson/takeaway-challenge)|Weekend|Created a food ordering program that sends you a confirmation text message|Ruby, Twilio|Rspec|
+|   Guardian Summary app [Github](https://github.com/GeorgeDrayson/news-summary-challenge)   |Weekend| Created a single page news summary app using vanilla Javascript for both the test framework and the code| Javascript, HTML, CSS, Bootstrap, Guardian and Aylien API  | Javascript |
+|   Instagram challenge [Github](https://github.com/GeorgeDrayson/instagram-challenge) [Heroku](https://instagram-challenge-gdrayson.herokuapp.com) | Weekend  | Created a copy of Instagram using Ruby on Rails | Ruby on Rails, HTML, CSS, Bootstrap, Heroku, PostgreSQL | Rspec|
+|   Project   |           |                   |                   |                   |
+|   Project   |           |                   |                   |                   |
+|   Project   |           |                   |                   |                   |
 
 # Skills
 
@@ -73,6 +78,7 @@ The main focus is around:
 
 - Head Boy
 - A Levels: Achieved A*s in Mathematics, Physics and Further Mathematics
+- Completed in Extended Project Qualification on crpytography
 - GCSEs: Achieved 9 A*s and 1 A
 - Awarded an Academic Scholarship after my GCSEs and A Levels
 
