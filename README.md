@@ -19,22 +19,13 @@ I am a Software Developer with a particular interest in Machine Learning and Ful
 
 # Skills
 
-**This Skill**
+**Public Speaking**
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I competed for my School Debating team and spoke in front of large audiences regularly during my role as Head Boy at School. Achievements include joint best speaker in the ESU Churchill Public Speaking competition in West London and the Public Speaking Award at my School.
 
-- Experience
-- Achievements
-- Evidence
+**Leadership and management**
 
-**Another Skill**
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+**Software Development**
 
 # Education
 
