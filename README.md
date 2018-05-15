@@ -38,12 +38,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 # Education
 
-**I am starting an Engineering Science Degree at the University of Oxford in October 2018**
+#### I am starting an Engineering Science Degree at the University of Oxford in October 2018
 
 - Brasenose College
 - Awarded a MEng at the end of 4 years
 
-**Makers Academy (January to May 2018)**
+
+#### Makers Academy (January to May 2018)
 
 Makers Academy is Europe's leading Web Developer bootcamp
 
@@ -57,7 +58,8 @@ The main focus is around:
 
 - Testing: RSpec, Jasmine
 
-**Harrodian School, London (January 2011 - June 2017)**
+
+#### Harrodian School, London (January 2011 - June 2017)
 
 - Head Boy
 - A Levels: Achieved A*'s in Mathematics, Physics and Further Mathematics
