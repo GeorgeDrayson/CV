@@ -73,6 +73,6 @@ The main focus is around:
 
 # Hobbies
 
-- Film-making: Directed, co-wrote, and acted in short films for the Harrodian Film Festival. We received second place and then achieved a technical commendation in the subsequent year.
-- Long Distance Running and Field Hockey: I spent most of my time in senior school competing for my Athletics Team Belgrave Harriers and playing Hockey for the 1st team.
-- Music: I have been playing the Electric Guitar since the age of 11 because of a passion for Old School Classic Rock and learning new skills.
+- **Film-making**: Directed, co-wrote, and acted in short films for the Harrodian Film Festival. We received second place and then achieved a technical commendation in the subsequent year.
+- **Long Distance Running and Field Hockey**: I spent most of my time in senior school competing for my Athletics Team Belgrave Harriers and playing Hockey for the 1st team.
+- **Music**: I have been playing the Electric Guitar since the age of 11 because of a passion for Old School Classic Rock and learning new skills.
