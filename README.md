@@ -44,42 +44,32 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 # Education
 
-**Makers Academy (January to May 2018)**
-
-Makers Academy is a 16-week intensive coding bootcamp that is one of the most well respected in the UK.
-
-The main focus is around:
-
-- Object Oriented Programming, Test Driven Development, MVC, DDD
-
-- Agile/XP
-
-- Languages: Ruby, Rails, JavaScript
-
-- RSpec, Jasmine
-
-- Pair programming
-
-
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-
-- Fast, independent learner [PROVIDE EVIDENCE]
-
-- Great collaborator [PROVIDE EVIDENCE]
-
 **I am starting an Engineering Science Degree at the University of Oxford in October 2018**
 
 - Brasenose College
 - Awarded a MEng at the end of 4 years
 
+**Makers Academy (January to May 2018)**
+
+Makers Academy is Europe's leading Web Developer bootcamp
+
+The main focus is around:
+
+- Object Oriented Programming, Test-Driven Development and Pair Programming
+
+- Agile programming and XP values
+
+- Languages: Ruby, Ruby on Rails, JavaScript
+
+- Testing: RSpec, Jasmine
+
 **Harrodian School, London (January 2011 - June 2017)**
 
 - Head Boy
-- A Levels: Achieved A*s in Mathematics, Physics and Further Mathematics
-- Completed in Extended Project Qualification on crpytography
-- GCSEs: Achieved 9 A*s and 1 A
-- Awarded an Academic Scholarship after my GCSEs and A Levels
+- A Levels: Achieved A*'s in Mathematics, Physics and Further Mathematics
+- GCSEs: Achieved 9 A*'s and 1 A
+- Completed an Extended Project Qualification (EPQ) on Cryptography
+- Awarded an Academic Scholarship after Common Entrance, GCSE's and A Levels
 
 # Experience
 
