@@ -4,24 +4,18 @@
 
 [Personal website](http://georgedrayson.com/)
 
-### Junior Software Developer ###
-
-I am a Software Developer from Makers Academy. I graduated from the Harrodian School last year and will be on a Gap Year before starting an Engineering Science degree at Oxford University in October. I decided to take a gap year to develop my knowledge of software development and gain industry experience in a tech company.
-
-Then a sentence about what you've achieved.
-
-And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. --> short-term (for 2 months)
+I am a Software Developer with a particular interest in Machine Learning and Full Stack Web Development.
 
 # Projects
 
 |    Project   | Timeframe | Description | Technologies | Testing |
 | ------------ | --------- | ----------------- | ----------------- | ------- |
-|[Machine Learning Final Project](https://github.com/GeorgeDrayson/FinalProjectML)|2 weeks| Final Project for Makers Academy in Machine Learning with no prior knowledge. We created 3 accurate ML bots that could diagnose diabetes, determine if a tumour is cancerous and categorise Iris flowers.| Python, TensorFlow, TensorBoard|unittest|
+|[Machine Learning Final Project](https://github.com/GeorgeDrayson/FinalProjectML)|2 weeks| Final Project for Makers Academy in Machine Learning. We created 3 accurate ML bots that could diagnose diabetes, determine if a tumour is cancerous and categorise Iris flowers.| Python, TensorFlow, TensorBoard|unittest|
 |[Oystercard](https://github.com/GeorgeDrayson/Oystercard) |1 week|Simulation of the Oystercard system.|Ruby|Rspec|
 |[Takeaway Challenge](https://github.com/GeorgeDrayson/takeaway-challenge)|Weekend|Created a food ordering program that sends you a confirmation text message.|Ruby, Twilio|Rspec|
-|[Nebnb](https://github.com/GeorgeDrayson/nebnb)| 1 week|Built a copy of AirBnB using Node.js| Javascript, Node.js, Express, HTML, CSS, MongoDB| Mocha, Chai, Zombie.js|
-|[Guardian Summary app](https://github.com/GeorgeDrayson/news-summary-challenge)|Weekend| Created a single page news summary app using vanilla Javascript for both the test framework and the code| Javascript, HTML, CSS, Bootstrap, Guardian and Aylien API  | Javascript |
-| [Instagram challenge](https://github.com/GeorgeDrayson/instagram-challenge) [Heroku](https://instagram-challenge-gdrayson.herokuapp.com) |Weekend| Created a copy of Instagram using Ruby on Rails | Ruby on Rails, HTML, CSS, Bootstrap, Heroku, PostgreSQL | Rspec|
+|[Nebnb](https://github.com/GeorgeDrayson/nebnb)| 1 week|Built a copy of AirBnB using Node.js.| Javascript, Node.js, Express, HTML, CSS, MongoDB| Mocha, Chai, Zombie.js|
+|[Guardian Summary app](https://github.com/GeorgeDrayson/news-summary-challenge)|Weekend| Created a single page news summary app using vanilla Javascript for both the test framework and the code.| Javascript, HTML, CSS, Bootstrap, Guardian and Aylien API  | Javascript |
+| [Instagram challenge](https://github.com/GeorgeDrayson/instagram-challenge) [Heroku](https://instagram-challenge-gdrayson.herokuapp.com) |Weekend| Created a copy of Instagram using Ruby on Rails.| Ruby on Rails, HTML, CSS, Bootstrap, Heroku, PostgreSQL |Rspec|
 
 # Skills
 
