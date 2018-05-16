@@ -2,7 +2,7 @@
 
 [PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [HOBBIES](#hobbies)
 
-[Personal website](http://georgedrayson.com/)
+[Personal website](http://georgedrayson.com/) | [LinkedIn](https://www.linkedin.com/in/george-drayson-1999007/) 
 
 I am a Software Developer with a particular interest in Machine Learning and Full Stack Web Development.
 
