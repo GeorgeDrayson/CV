@@ -1,6 +1,6 @@
 # George Drayson
 
-[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [HOBBIES](#hobbies)
+[PROJECTS](#projects) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [HOBBIES](#hobbies)
 
 [Personal website](http://georgedrayson.com/) | [LinkedIn](https://www.linkedin.com/in/george-drayson-1999007/) 
 
@@ -17,19 +17,9 @@ I am a Software Developer with a particular interest in Machine Learning and Ful
 |[Guardian Summary app](https://github.com/GeorgeDrayson/news-summary-challenge)|Weekend| Created a single page news summary app using vanilla Javascript for both the test framework and the code.| Javascript, HTML, CSS, Bootstrap, Guardian and Aylien API  | Javascript |
 | [Instagram challenge](https://github.com/GeorgeDrayson/instagram-challenge) [Heroku](https://instagram-challenge-gdrayson.herokuapp.com) |Weekend| Created a copy of Instagram using Ruby on Rails.| Ruby on Rails, HTML, CSS, Bootstrap, Heroku, PostgreSQL |Rspec|
 
-# Skills
-
-**Public Speaking**
-
-I competed for my School Debating team and spoke in front of large audiences regularly during my role as Head Boy at School. Achievements include joint best speaker in the ESU Churchill Public Speaking competition in West London and the Public Speaking Award at my School.
-
-**Leadership and management**
-
-**Software Development**
-
 # Education
 
-#### I am starting an Engineering Science Degree at the University of Oxford in October 2018
+#### Studying Engineering Science at Oxford University (2018-2022)
 
 - Brasenose College
 - Awarded a MEng at the end of 4 years
